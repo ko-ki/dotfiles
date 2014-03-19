@@ -47,6 +47,7 @@ cask install skype
 cask install vlc
 cask install mou
 cask install dropbox
+cask install sophos-anti-virus-home-edition
 # ko-ki/homebrew-mycask
 cask install totalspaces2
 
