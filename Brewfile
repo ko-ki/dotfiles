@@ -27,6 +27,7 @@ install sl
 install watch
 install phantomjs
 install cmake
+install tmux
 
 # Packages for brew-cask
 install brew-cask
