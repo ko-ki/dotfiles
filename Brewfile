@@ -48,6 +48,7 @@ cask install vlc
 cask install mou
 cask install dropbox
 cask install sophos-anti-virus-home-edition
+cask install hyperswitch
 # ko-ki/homebrew-mycask
 cask install totalspaces2
 
