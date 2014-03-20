@@ -21,6 +21,12 @@ install tree
 install imagemagick
 install ghostscript
 install node
+install libtool
+install openssl
+install sl
+install watch
+install phantomjs
+install cmake
 
 # Packages for brew-cask
 install brew-cask
