@@ -20,6 +20,7 @@ install wget
 install tree
 install imagemagick
 install ghostscript
+install node
 
 # Packages for brew-cask
 install brew-cask
