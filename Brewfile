@@ -12,7 +12,7 @@ tap ko-ki/homebrew-mycask || true
 tap homebrew/binary || true
 
 # Packages for development
-install zsh
+install zsh --disable-etcdir
 install git
 install vim
 install curl
