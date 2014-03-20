@@ -38,6 +38,7 @@ cask install virtualbox
 cask install vagrant
 cask install adobe-creative-cloud
 cask install alfred
+cask alfred link
 cask install appcleaner
 cask install arduino
 cask install bartender
@@ -59,8 +60,6 @@ cask install sophos-anti-virus-home-edition
 cask install hyperswitch
 # ko-ki/homebrew-mycask
 cask install totalspaces2
-
-cask alfred link
 
 # Remove outdated versions
 cleanup
