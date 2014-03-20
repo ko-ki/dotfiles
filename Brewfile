@@ -28,6 +28,7 @@ install watch
 install phantomjs
 install cmake
 install tmux
+install reattach-to-user-namespace
 
 # Packages for brew-cask
 install brew-cask
